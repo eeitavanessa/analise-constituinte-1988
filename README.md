@@ -69,18 +69,6 @@ Resolução de problemas com dados reais e incompletos
 
 Documentação técnica e apresentação de resultados
 
-📁 Estrutura do Projeto
-text
-constituinte-1986-analysis/
-├── 📊 analise_exploratoria.ipynb
-├── 📈 graficos/
-│   ├── perfil_demografico.png
-│   ├── distribuicao_geografica.png
-│   └── evolucao_temporal.png
-├── 📋 relatorios/
-│   └── analise_completa.pdf
-└── 📝 dados/
-    └── dados_constituinte.csv
 🌟 Destaques
 Análise de dados históricos com relevância social
 
